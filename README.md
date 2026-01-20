@@ -1,21 +1,36 @@
 ## 👋 Olá, bom ter você por aqui!
 
-Sou desenvolvedor Full Stack com foco em sistemas, APIs e apps mobile.
+Sou **Lucas Matheus Gaieviski**, desenvolvedor Full Stack com foco em **sistemas empresariais, APIs e aplicativos mobile**.
 
-- 💻 JavaScript | Node.js | Python | SQL | MongoDB
-- 📱 Web • Mobile • Sistemas empresariais
+- 💻 JavaScript | Node.js | Python | SQL | MongoDB  
+- 📱 Web • Mobile • Sistemas de Gestão  
 - 🎓 Engenharia de Software & Ciência de Dados (em andamento)
 
 📫 **Email:** lucas@gaieviski.com  
-🔗 **LinkedIn:** https://linkedin.com/in/lucas-gaieviski-1158a0226
+🔗 **LinkedIn:** https://linkedin.com/in/lucas-gaieviski-1158a0226  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/lucas-gaieviski-1158a0226)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/gaieviski)
+---
+
+### 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gaieviski-1158a0226)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaieviski)
+
+---
 
 ### 🚀 Tecnologias
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,sql,flutter,git" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,sql,flutter,git,docker" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaieviski&layout=compact&theme=dark" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaieviski&show_icons=true&theme=dark" />
+### 📊 Estatísticas
+<img src="https://github-readme-stats.vercel.app/api?username=gaieviski&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaieviski&layout=compact&theme=tokyonight" />
 
+---
+
+### 🧪 Projetos em destaque (teste)
+- 🔹 **gestao-financeira-api** — API REST para controle financeiro  
+- 🔹 **app-emissao-nfe** — App mobile para emissão de NFe  
+- 🔹 **sistema-gestao-pj** — Sistema web empresarial  
+
+> ⚠️ Repositórios de demonstração — serão substituídos por projetos reais.
