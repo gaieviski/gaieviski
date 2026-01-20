@@ -18,7 +18,8 @@ Sou **Lucas Matheus Gaieviski**, desenvolvedor Full Stack com foco em **sistemas
 ---
 
 ### 🚀 Tecnologias
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,sql,flutter,git,docker" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,flutter,git,docker&theme=light" />
+
 
 ---
 
