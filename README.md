@@ -1,37 +1,41 @@
-## 👋 Olá, bom ter você por aqui!
+## 👋 Hi, welcome to my profile!
 
-Sou **Lucas Matheus Gaieviski**, desenvolvedor Full Stack com foco em **sistemas empresariais, APIs e aplicativos mobile**.
+I'm **Lucas Matheus Gaieviski**, a **Full Stack Developer** with experience building **websites, APIs, mobile applications (iOS & Android)** and **desktop software for Windows**.
 
-- 💻 JavaScript | Node.js | Python | SQL | MongoDB  
-- 📱 Web • Mobile • Sistemas de Gestão  
-- 🎓 Engenharia de Software & Ciência de Dados (em andamento)
+- 🌐 Websites and web systems  
+- 📱 Mobile apps (Android & iOS)  
+- 🖥️ Windows desktop applications  
+- ⚙️ REST APIs and system integrations  
+- 🗄️ SQL and NoSQL databases  
+
+🎓 Software Engineering & Data Science (in progress)  
 
 📫 **Email:** lucas@gaieviski.com  
 🔗 **LinkedIn:** https://linkedin.com/in/lucas-gaieviski-1158a0226  
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gaieviski-1158a0226)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaieviski)
 
 ---
 
-### 🚀 Tecnologias
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,mongodb,flutter,git,docker&theme=light" />
-
+### 🚀 Technologies
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,flutter,html,css,mongodb,postgres,git,docker&theme=light" />
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=gaieviski&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaieviski&layout=compact&theme=tokyonight" />
 
 ---
 
-### 🧪 Projetos em destaque (teste)
-- 🔹 **gestao-financeira-api** — API REST para controle financeiro  
-- 🔹 **app-emissao-nfe** — App mobile para emissão de NFe  
-- 🔹 **sistema-gestao-pj** — Sistema web empresarial  
+### 🧪 Featured Projects (demo)
+- 🔹 **website-institutional** — Professional institutional website  
+- 🔹 **api-business-management** — REST API for business management  
+- 🔹 **mobile-app-android-ios** — Cross-platform mobile application  
+- 🔹 **windows-desktop-system** — Windows desktop management system  
 
-> ⚠️ Repositórios de demonstração — serão substituídos por projetos reais.
+> ⚠️ Demo repositories for presentation purposes. They will be replaced with production projects.
