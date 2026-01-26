@@ -33,9 +33,9 @@ I'm **Lucas Matheus Gaieviski**, a **Full Stack Developer** with experience buil
 ---
 
 ### 🧪 Featured Projects (demo)
-- 🔹 **website-institutional** — Professional institutional website  
+- 🔹 **website-** — Professional institutional website  
 - 🔹 **api-business-management** — REST API for business management  
-- 🔹 **mobile-app-android-ios** — Cross-platform mobile application  
+- 🔹 **League-of-Select** — Cross-platform mobile application [![GitHub] [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/gaieviski](https://github.com/gaieviski/League-of-Select))
 - 🔹 **windows-desktop-system** — Windows desktop management system  
 
 > ⚠️ Demo repositories for presentation purposes. They will be replaced with production projects.
