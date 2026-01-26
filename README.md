@@ -35,8 +35,9 @@ I'm **Lucas Matheus Gaieviski**, a **Full Stack Developer** with experience buil
 ### 🧪 Featured Projects (demo)
 - 🔹 **website-** — Professional institutional website  
 - 🔹 **api-business-management** — REST API for business management  
-- 🔹 **League-of-Select** — Cross-platform mobile application 
-- 🔹 **windows-desktop-system** — Windows desktop management system  <img width="512" height="512" alt="link-externo" src="https://github.com/user-attachments/assets/9d89a3a8-fa12-47d4-9c6d-0dabdcd47a7e" />
+- 🔹 **League-of-Select** — Cross-platform mobile application <img width="52" height="52" alt="link-externo" src="https://github.com/user-attachments/assets/28079b6c-4ac7-440b-9429-2cab6b9663f0" />
+
+- 🔹 **windows-desktop-system** — Windows desktop management system  
 
 
 > ⚠️ Demo repositories for presentation purposes. They will be replaced with production projects.
